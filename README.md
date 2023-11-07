@@ -1,1 +1,3 @@
 # MagKater
+
+Profiel stuff
